@@ -2,4 +2,4 @@
   <strong>Welcome! 🦄</strong>
 </p>
 
-![My Image](./img/paidaxing.png)
+![My Image](./img/paidaxing.jpg)
