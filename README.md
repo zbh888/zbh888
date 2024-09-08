@@ -1,5 +1,5 @@
 <p align="center">
-  <h1><strong>Welcome! 🦄</strong></h1>
+  <strong style="font-size: 40px;">Welcome! 🦄</strong>
 </p>
 
 ![My Image](./img/paidaxing.jpg)
